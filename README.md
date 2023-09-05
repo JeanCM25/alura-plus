@@ -37,3 +37,4 @@ Para visualizar o site, basta abrir o arquivo index.html em um navegador da web,
 
 <h2>Autor</h2>
 Este projeto foi desenvolvido por Jean Carlos Martins como parte do curso de HTML e CSS da Alura.
+<li>https://www.linkedin.com/in/jeanmartins94/</li>
