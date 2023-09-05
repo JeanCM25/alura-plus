@@ -3,7 +3,7 @@
 Descrição do Projeto
 O projeto Alura Plus consiste na criação de um site fictício para uma plataforma de ensino online chamada "Alura Plus".
 
-Tecnologias Utilizadas
+<h2 color:#3c92fa>Tecnologias Utilizadas</h2>
 
 Neste projeto, foram utilizadas as seguintes tecnologias:
 
