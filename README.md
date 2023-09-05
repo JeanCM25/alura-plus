@@ -5,16 +5,16 @@
 <h2>Descrição do Projeto</h2>
 O projeto Alura Plus consiste na criação de um site fictício para uma plataforma de ensino online chamada "Alura Plus".
 
-<h2 color:#3c92fa>Tecnologias Utilizadas</h2>
+<h2>Tecnologias Utilizadas</h2>
 
-<h2 color:#3c92fa>Neste projeto, foram utilizadas as seguintes tecnologias:</h2>
+<h2>Neste projeto, foram utilizadas as seguintes tecnologias:</h2>
 
 HTML5: Para a estruturação do conteúdo do site.
 CSS3: Para a estilização e layout das páginas.
 Responsive Design: O site é responsivo e se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktop.
 Estrutura de Diretórios
 
-<h2 color:#3c92fa>O projeto está organizado da seguinte forma:</h2>
+<h2>O projeto está organizado da seguinte forma:</h2>
 <ul>
   <li>index.html: Página inicial do site.</li>
   <li>style.css: Arquivo CSS utilizado para estilização.</li>
@@ -28,11 +28,11 @@ Estrutura de Diretórios
   <li>computadore.png: Imagem ilustrativa de um computador.</li>
   <li>tv.png: Imagem ilustrativa de uma TV.</li>
 </ul>
-<h2 color:#3c92fa>Como Usar</h2>
+<h2>Como Usar</h2>
 Para visualizar o site, basta abrir o arquivo index.html em um navegador da web, ou acesse as seguintes urls: 
 <ul>
-  <li2>https://jeancm25.github.io/alura-plus/</li2>
-  <li2>https://alura-plus-topaz-psi.vercel.app</li2>
+  <li>https://jeancm25.github.io/alura-plus/</li>
+  <li>https://alura-plus-topaz-psi.vercel.app</li>
 </ul>
 
 <h2>Autor</h2>
