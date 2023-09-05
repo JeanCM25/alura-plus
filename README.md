@@ -1,5 +1,5 @@
 <h1 align="center">Alura-Plus </h1>
-<img src="img/Logo.png" alt="Alura+">
+<img align="center" src="img/Logo.png" alt="Alura+">
 
 Descrição do Projeto
 O projeto Alura Plus consiste na criação de um site fictício para uma plataforma de ensino online chamada "Alura Plus".
