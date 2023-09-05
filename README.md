@@ -16,17 +16,17 @@ Estrutura de Diretórios
 
 <h2 color:#3c92fa>O projeto está organizado da seguinte forma:</h2>
 <ul>
-  <li>*index.html: Página inicial do site.</li>
-  <li>*style.css: Arquivo CSS utilizado para estilização.</li>
-  <li>*img/: Pasta contendo as imagens utilizadas no site, incluindo:</li>
-  <li>*Background.png: Imagem de fundo do site.</li>
-  <li>*combo.png: Imagem ilustrativa de um combo de cursos.</li>
-  <li>*notebook.png: Imagem ilustrativa de um notebook.</li>
-  <li>*plataformas.png: Imagem ilustrativa das plataformas disponíveis.</li>
-  <li>*Telas.png: Imagem ilustrativa de telas de cursos.</li>
-  <li>*celular.png: Imagem ilustrativa de um celular.</li>
-  <li>*computadore.png: Imagem ilustrativa de um computador.</li>
-  <li>*tv.png: Imagem ilustrativa de uma TV.</li>
+  <li>index.html: Página inicial do site.</li>
+  <li>style.css: Arquivo CSS utilizado para estilização.</li>
+  <li>img/: Pasta contendo as imagens utilizadas no site, incluindo:</li>
+  <li>Background.png: Imagem de fundo do site.</li>
+  <li>combo.png: Imagem ilustrativa de um combo de cursos.</li>
+  <li>notebook.png: Imagem ilustrativa de um notebook.</li>
+  <li>plataformas.png: Imagem ilustrativa das plataformas disponíveis.</li>
+  <li>Telas.png: Imagem ilustrativa de telas de cursos.</li>
+  <li>celular.png: Imagem ilustrativa de um celular.</li>
+  <li>computadore.png: Imagem ilustrativa de um computador.</li>
+  <li>tv.png: Imagem ilustrativa de uma TV.</li>
 </ul>
 <h2 color:#3c92fa>Como Usar</h2>
 Para visualizar o site, basta abrir o arquivo index.html em um navegador da web, ou acesse as seguintes urls  https://jeancm25.github.io/alura-plus/ https://alura-plus-topaz-psi.vercel.app
