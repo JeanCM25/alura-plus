@@ -31,8 +31,8 @@ Estrutura de Diretórios
 <h2 color:#3c92fa>Como Usar</h2>
 Para visualizar o site, basta abrir o arquivo index.html em um navegador da web, ou acesse as seguintes urls: 
 <ul>
-  <li>https://jeancm25.github.io/alura-plus/</li>
-  <li>https://alura-plus-topaz-psi.vercel.app</li>
+  <li2>https://jeancm25.github.io/alura-plus/</li2>
+  <li2>https://alura-plus-topaz-psi.vercel.app</li2>
 </ul>
 
 <h2>Autor</h2>
