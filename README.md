@@ -29,7 +29,7 @@ Estrutura de Diretórios
   <li>plataformas.png: Imagem ilustrativa das plataformas disponíveis.</li>
   <li>Telas.png: Imagem ilustrativa de telas de cursos.</li>
   <li>celular.png: Imagem ilustrativa de um celular.</li>
-  <li>computadore.png: Imagem ilustrativa de um computador.</li>
+  <li>computador.png: Imagem ilustrativa de um computador.</li>
   <li>tv.png: Imagem ilustrativa de uma TV.</li>
 </ul>
 <h2>Como Usar</h2>
